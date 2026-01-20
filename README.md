@@ -1,28 +1,26 @@
-📘 Advanced SQL Learning Repository
+# Coffee Sales Analysis – SQL Case Study
 
-This repository is a collection of Advanced SQL concepts I’ve been learning and practicing. Each topic includes well-structured queries with explanations and a README summarizing the key takeaways.
-🔑 Topics Covered
-📌 Common Table Expressions (CTEs)
-📌 Temporary Tables
-📌 Stored Procedures
-📌 Triggers
-📌 Events (Scheduled Jobs)
-📌 Window Functions
+This project analyzes coffee shop sales data using SQL
+to uncover trends in revenue, customer behavior, and product performance.
 
-🎯 Purpose
-This repo serves as:
-A learning resource for anyone exploring Advanced SQL
-A personal reference for real-world use cases
-A step towards building data analyst & data engineering skills
+## Business Questions Answered
+• Which coffee products generate the highest revenue?
+• What are the peak sales days and months?
+• How do payment methods affect order value?
+• Which products contribute most to total revenue (Pareto Analysis)?
+• How consistent are product prices over time?
 
-🚀 How to Use
-Each folder contains SQL files with examples
-READMEs explain the key concepts in simple terms
-Feel free to clone and practice in your own MySQL setup
+## Skills Demonstrated
+• SQL data cleaning  
+• Exploratory data analysis  
+• Business-driven querying  
+• Advanced SQL (CTEs, Window Functions)  
+• Insight communication  
 
-👉 Connect with me on LinkedIn
- where I share my learning journey:
- www.linkedin.com/in/bhaskar-arya-b854b9245
+## Tools
+• MySQL
 
-
-⚡ I’ll keep updating this repo as I learn more advanced techniques in SQL.
+## Author
+**Bhaskar Arya**  
+GitHub: https://github.com/bhaskaraya3  
+LinkedIn: https://www.linkedin.com/in/bhaskararya01
