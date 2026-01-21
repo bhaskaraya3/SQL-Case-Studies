@@ -1,0 +1,263 @@
+date,datetime,cash_type,money,coffee_name
+2/8/2025,2/8/2025 14:26,cash,15,Tea
+2/8/2025,2/8/2025 14:28,cash,15,Tea
+2/8/2025,2/8/2025 14:33,card,20,Espresso
+2/8/2025,2/8/2025 15:51,card,30,Chocolate with coffee
+2/8/2025,2/8/2025 16:35,cash,27,Chocolate with milk
+2/8/2025,2/8/2025 18:55,card,33,Espresso
+2/8/2025,2/8/2025 18:59,cash,29,Coffee with Irish whiskey
+2/8/2025,2/8/2025 19:00,cash,27,Irish whiskey with milk
+2/9/2025,2/9/2025 8:45,card,28,Double Irish whiskey
+2/9/2025,2/9/2025 10:41,cash,30,Chocolate with coffee
+2/9/2025,2/9/2025 10:42,cash,27,Double espresso
+2/9/2025,2/9/2025 12:18,cash,25,Americano with milk
+2/9/2025,2/9/2025 13:28,card,20,Espresso
+2/9/2025,2/9/2025 15:16,card,30,Cappuccino
+2/9/2025,2/9/2025 15:43,card,32,Double espresso with milk
+2/9/2025,2/9/2025 16:14,card,28,Double Irish whiskey
+2/9/2025,2/9/2025 16:23,card,28,Caramel with Irish whiskey
+2/9/2025,2/9/2025 16:25,card,33,Latte
+2/9/2025,2/9/2025 17:47,card,33,Latte
+2/9/2025,2/9/2025 18:01,card,25,Americano with milk
+2/9/2025,2/9/2025 18:01,card,33,Latte
+2/9/2025,2/9/2025 18:01,card,15,Tea
+2/9/2025,2/9/2025 18:02,card,28,Caramel with Irish whiskey
+2/9/2025,2/9/2025 19:50,cash,29,Coffee with Irish whiskey
+2/10/2025,2/10/2025 9:26,cash,25,Americano
+2/10/2025,2/10/2025 12:26,cash,25,Americano
+2/10/2025,2/10/2025 18:21,cash,27,Chocolate with milk
+2/11/2025,2/11/2025 9:49,card,15,Tea
+2/11/2025,2/11/2025 18:35,card,25,Americano
+2/12/2025,2/12/2025 17:57,cash,27,Chocolate with milk
+2/13/2025,2/13/2025 7:55,card,33,Latte
+2/13/2025,2/13/2025 8:12,card,32,Double espresso with milk
+2/13/2025,2/13/2025 8:47,card,30,Cappuccino
+2/13/2025,2/13/2025 10:28,card,25,Americano with milk
+2/14/2025,2/14/2025 12:33,card,20,Espresso
+2/14/2025,2/14/2025 14:27,cash,20,Espresso
+2/14/2025,2/14/2025 14:33,card,28,Double Irish whiskey
+2/14/2025,2/14/2025 16:09,cash,20,Espresso
+2/14/2025,2/14/2025 19:02,card,20,Espresso
+2/14/2025,2/14/2025 19:24,cash,27,Chocolate with milk
+2/14/2025,2/14/2025 19:30,card,29,Coffee with Irish whiskey
+2/14/2025,2/14/2025 19:53,card,28,Super chocolate
+2/14/2025,2/14/2025 19:54,card,28,Double Irish whiskey
+2/15/2025,2/15/2025 9:38,card,25,Americano
+2/15/2025,2/15/2025 11:10,card,27,Double vanilla
+2/15/2025,2/15/2025 13:43,cash,30,Mochaccino
+2/15/2025,2/15/2025 13:45,cash,27,Irish whiskey with milk
+2/15/2025,2/15/2025 15:33,card,15,Tea
+2/15/2025,2/15/2025 15:35,card,25,Americano with milk
+2/15/2025,2/15/2025 15:48,card,25,Americano with milk
+2/16/2025,2/16/2025 16:36,card,33,Latte
+2/16/2025,2/16/2025 16:38,card,28,Caramel with chocolate
+2/16/2025,2/16/2025 16:41,cash,25,Irish whiskey
+2/16/2025,2/16/2025 16:41,cash,20,Double vanilla
+2/16/2025,2/16/2025 19:30,card,33,Latte
+2/16/2025,2/16/2025 23:01,card,29,Coffee with Irish whiskey
+2/16/2025,2/16/2025 23:03,card,30,Cappuccino
+2/16/2025,2/16/2025 23:04,card,28,Caramel coffee
+2/17/2025,2/17/2025 7:58,card,20,Espresso
+2/17/2025,2/17/2025 8:17,cash,30,Cappuccino
+2/17/2025,2/17/2025 16:26,card,28,Caramel with Irish whiskey
+2/17/2025,2/17/2025 16:57,cash,25,Americano with milk
+2/17/2025,2/17/2025 17:00,cash,20,Espresso
+2/17/2025,2/17/2025 17:52,card,30,Cappuccino
+2/17/2025,2/17/2025 18:26,cash,29,Coffee with Irish whiskey
+2/17/2025,2/17/2025 22:10,cash,25,Americano with milk
+2/18/2025,2/18/2025 9:52,cash,28,Vanilla with Irish whiskey
+2/18/2025,2/18/2025 10:14,card,25,Americano with milk
+2/18/2025,2/18/2025 15:36,card,30,Cappuccino
+2/18/2025,2/18/2025 15:42,card,25,Americano with milk
+2/19/2025,2/19/2025 7:56,cash,25,Americano
+2/19/2025,2/19/2025 10:38,card,25,Americano
+2/19/2025,2/19/2025 12:05,cash,25,Americano with milk
+2/19/2025,2/19/2025 12:20,card,20,Espresso
+2/20/2025,2/20/2025 7:38,card,30,Cappuccino
+2/20/2025,2/20/2025 8:04,cash,30,Mochaccino
+2/20/2025,2/20/2025 8:57,card,29,Coffee with Irish whiskey
+2/20/2025,2/20/2025 9:36,cash,25,Americano with milk
+2/20/2025,2/20/2025 9:36,cash,20,Espresso
+2/20/2025,2/20/2025 12:07,card,33,Latte
+2/20/2025,2/20/2025 12:09,card,30,Cappuccino
+2/20/2025,2/20/2025 13:20,card,25,Chocolate
+2/20/2025,2/20/2025 17:06,card,25,Americano with milk
+2/20/2025,2/20/2025 17:09,cash,25,Americano with milk
+2/20/2025,2/20/2025 17:42,card,28,Double Irish whiskey
+2/21/2025,2/21/2025 8:39,cash,25,Irish whiskey
+2/21/2025,2/21/2025 9:20,card,30,Mochaccino
+2/21/2025,2/21/2025 9:49,card,25,Irish whiskey
+2/21/2025,2/21/2025 10:14,cash,25,Americano with milk
+2/21/2025,2/21/2025 15:56,card,25,Americano with milk
+2/21/2025,2/21/2025 16:13,card,28,Double Irish whiskey
+2/21/2025,2/21/2025 16:44,cash,20,Espresso
+2/21/2025,2/21/2025 17:12,card,33,Latte
+2/21/2025,2/21/2025 18:43,cash,25,Americano with milk
+2/21/2025,2/21/2025 18:45,card,33,Latte
+2/21/2025,2/21/2025 18:55,cash,15,Tea
+2/22/2025,2/22/2025 12:08,card,28,Caramel with chocolate
+2/22/2025,2/22/2025 18:38,card,33,Latte
+2/22/2025,2/22/2025 18:38,card,25,Americano with milk
+2/22/2025,2/22/2025 19:05,card,29,Coffee with Irish whiskey
+2/23/2025,2/23/2025 11:04,card,28,Double Irish whiskey
+2/23/2025,2/23/2025 15:09,card,25,Americano
+2/23/2025,2/23/2025 15:19,card,25,Americano with milk
+2/23/2025,2/23/2025 15:57,cash,28,Double Irish whiskey
+2/24/2025,2/24/2025 13:23,card,15,Tea
+2/24/2025,2/24/2025 18:32,card,28,Caramel with Irish whiskey
+2/24/2025,2/24/2025 18:33,card,28,Caramel with Irish whiskey
+2/24/2025,2/24/2025 20:15,card,25,Caramel with milk
+2/25/2025,2/25/2025 21:41,card,29,Coffee with Irish whiskey
+2/25/2025,2/25/2025 21:43,card,33,Latte
+2/26/2025,2/26/2025 9:41,cash,25,Americano with milk
+2/26/2025,2/26/2025 9:41,cash,25,Americano with milk
+2/26/2025,2/26/2025 10:29,cash,25,Irish whiskey
+2/26/2025,2/26/2025 11:31,card,33,Latte
+2/26/2025,2/26/2025 11:36,card,27,Irish whiskey with milk
+2/26/2025,2/26/2025 11:44,cash,15,Tea
+2/26/2025,2/26/2025 11:49,cash,20,Espresso
+2/26/2025,2/26/2025 11:56,card,15,Tea
+2/26/2025,2/26/2025 12:00,card,15,Tea
+2/26/2025,2/26/2025 12:17,card,15,Tea
+2/26/2025,2/26/2025 12:22,card,15,Tea
+2/26/2025,2/26/2025 13:11,cash,33,Latte
+2/26/2025,2/26/2025 14:53,card,33,Latte
+2/26/2025,2/26/2025 16:45,card,27,Irish whiskey with milk
+2/26/2025,2/26/2025 17:08,card,29,Coffee with Irish whiskey
+2/26/2025,2/26/2025 17:13,card,25,Caramel with milk
+2/26/2025,2/26/2025 20:49,card,28,Caramel with chocolate
+2/27/2025,2/27/2025 11:37,cash,25,Americano with milk
+2/27/2025,2/27/2025 17:04,cash,15,Tea
+2/28/2025,2/28/2025 7:58,card,25,Americano with milk
+2/28/2025,2/28/2025 12:02,cash,20,Espresso
+2/28/2025,2/28/2025 14:40,cash,33,Latte
+2/28/2025,2/28/2025 14:42,cash,33,Latte
+2/28/2025,2/28/2025 15:39,cash,30,Cappuccino
+2/28/2025,2/28/2025 15:42,cash,25,Americano with milk
+2/28/2025,2/28/2025 19:54,card,28,Super chocolate
+2/28/2025,2/28/2025 22:14,card,28,Double Irish whiskey
+2/28/2025,2/28/2025 22:32,card,25,Americano with milk
+3/1/2025,3/1/2025 11:37,cash,30,Cappuccino
+3/1/2025,3/1/2025 11:43,cash,25,Americano with milk
+3/1/2025,3/1/2025 12:48,cash,15,Tea
+3/1/2025,3/1/2025 14:48,card,27,Chocolate with milk
+3/1/2025,3/1/2025 16:35,card,27,Irish whiskey with milk
+3/2/2025,3/2/2025 11:18,card,25,Americano with milk
+3/2/2025,3/2/2025 11:20,card,30,Cappuccino
+3/2/2025,3/2/2025 12:16,card,28,Caramel coffee
+3/2/2025,3/2/2025 12:48,cash,28,Coffee with chocolate
+3/2/2025,3/2/2025 12:48,cash,30,Cappuccino
+3/2/2025,3/2/2025 14:54,cash,28,Super chocolate
+3/2/2025,3/2/2025 16:09,card,25,Irish whiskey
+3/2/2025,3/2/2025 20:12,card,27,Chocolate with milk
+3/2/2025,3/2/2025 20:13,card,27,Irish whiskey with milk
+3/2/2025,3/2/2025 20:16,card,33,Latte
+3/2/2025,3/2/2025 20:30,cash,25,Caramel with milk
+3/3/2025,3/3/2025 10:40,card,25,Americano with milk
+3/3/2025,3/3/2025 11:08,card,25,Irish whiskey
+3/3/2025,3/3/2025 11:14,card,25,Irish whiskey
+3/3/2025,3/3/2025 11:24,card,27,Irish with chocolate
+3/3/2025,3/3/2025 16:23,card,28,Caramel with Irish whiskey
+3/3/2025,3/3/2025 21:58,card,25,Americano with milk
+3/5/2025,3/5/2025 11:29,card,25,Irish whiskey
+3/5/2025,3/5/2025 11:39,card,27,Vanilla coffee
+3/5/2025,3/5/2025 12:34,cash,20,Espresso
+3/5/2025,3/5/2025 13:12,cash,25,Americano
+3/5/2025,3/5/2025 13:17,cash,27,Irish whiskey with milk
+3/5/2025,3/5/2025 18:38,card,33,Latte
+3/5/2025,3/5/2025 18:40,card,25,Americano with milk
+3/5/2025,3/5/2025 18:44,card,25,Americano
+3/7/2025,3/7/2025 12:36,card,27,Double ristretto
+3/7/2025,3/7/2025 12:37,card,25,Americano with milk
+3/7/2025,3/7/2025 14:19,card,27,Irish with chocolate
+3/7/2025,3/7/2025 14:21,card,25,Irish whiskey
+3/7/2025,3/7/2025 21:35,cash,27,Chocolate with milk
+3/8/2025,3/8/2025 11:32,card,25,Americano with milk
+3/8/2025,3/8/2025 16:35,card,20,Espresso
+3/8/2025,3/8/2025 21:32,card,30,Hot milkshake
+3/8/2025,3/8/2025 21:48,card,28,Caramel with chocolate
+3/9/2025,3/9/2025 7:47,card,25,Americano
+3/9/2025,3/9/2025 11:47,card,25,Americano
+3/9/2025,3/9/2025 15:05,cash,25,Americano
+3/9/2025,3/9/2025 15:07,card,30,Mochaccino
+3/9/2025,3/9/2025 17:32,card,25,Americano
+3/9/2025,3/9/2025 18:05,card,28,Vanilla with Irish whiskey
+3/9/2025,3/9/2025 18:43,card,27,Irish whiskey with milk
+3/9/2025,3/9/2025 19:19,cash,27,Chocolate with milk
+3/10/2025,3/10/2025 12:11,cash,25,Americano
+3/10/2025,3/10/2025 14:01,card,27,Irish whiskey with milk
+3/10/2025,3/10/2025 15:25,card,27,Irish whiskey with milk
+3/10/2025,3/10/2025 22:12,card,30,Cappuccino
+3/11/2025,3/11/2025 7:52,card,30,Cappuccino
+3/11/2025,3/11/2025 10:04,cash,27,Chocolate with milk
+3/11/2025,3/11/2025 12:41,cash,28,Super chocolate
+3/11/2025,3/11/2025 18:03,card,27,Irish with chocolate
+3/11/2025,3/11/2025 18:04,card,27,Irish with chocolate
+3/12/2025,3/12/2025 7:53,card,33,Latte
+3/12/2025,3/12/2025 8:41,card,25,Americano
+3/12/2025,3/12/2025 16:56,card,25,Americano with milk
+3/12/2025,3/12/2025 16:58,card,28,Double Irish whiskey
+3/12/2025,3/12/2025 18:50,card,25,Americano with milk
+3/12/2025,3/12/2025 18:52,card,25,Americano with milk
+3/12/2025,3/12/2025 21:37,card,27,Irish whiskey with milk
+3/12/2025,3/12/2025 21:39,card,27,Irish whiskey with milk
+3/14/2025,3/14/2025 12:31,card,25,Americano with milk
+3/14/2025,3/14/2025 13:46,card,28,Double Irish whiskey
+3/14/2025,3/14/2025 15:59,card,33,Latte
+3/14/2025,3/14/2025 21:27,card,27,Irish whiskey with milk
+3/15/2025,3/15/2025 13:12,card,15,Tea
+3/15/2025,3/15/2025 13:15,card,20,Espresso
+3/15/2025,3/15/2025 13:37,card,25,Irish whiskey
+3/15/2025,3/15/2025 13:39,card,25,Irish whiskey
+3/15/2025,3/15/2025 14:56,card,27,Irish whiskey with milk
+3/15/2025,3/15/2025 14:57,card,27,Chocolate with milk
+3/15/2025,3/15/2025 15:48,card,28,Caramel with Irish whiskey
+3/15/2025,3/15/2025 19:08,card,25,Irish whiskey
+3/15/2025,3/15/2025 19:10,card,25,Americano with milk
+3/15/2025,3/15/2025 21:02,card,33,Latte
+3/15/2025,3/15/2025 21:58,card,30,Cappuccino
+3/16/2025,3/16/2025 13:50,card,25,Americano with milk
+3/16/2025,3/16/2025 14:45,card,25,Americano with milk
+3/16/2025,3/16/2025 15:04,cash,25,Americano with milk
+3/16/2025,3/16/2025 16:01,card,29,Coffee with Irish whiskey
+3/17/2025,3/17/2025 8:01,card,29,Coffee with Irish whiskey
+3/17/2025,3/17/2025 11:03,card,25,Irish whiskey
+3/17/2025,3/17/2025 16:44,card,33,Latte
+3/17/2025,3/17/2025 17:33,card,29,Coffee with Irish whiskey
+3/17/2025,3/17/2025 18:33,card,29,Coffee with Irish whiskey
+3/18/2025,3/18/2025 8:25,card,29,Coffee with Irish whiskey
+3/18/2025,3/18/2025 15:02,cash,28,Double Irish whiskey
+3/18/2025,3/18/2025 17:44,cash,20,Espresso
+3/18/2025,3/18/2025 17:47,card,25,Irish whiskey
+3/18/2025,3/18/2025 19:35,card,30,Chocolate with coffee
+3/18/2025,3/18/2025 19:36,card,30,Chocolate with coffee
+3/19/2025,3/19/2025 16:56,card,25,Irish whiskey
+3/19/2025,3/19/2025 17:38,card,27,Chocolate with milk
+3/19/2025,3/19/2025 17:42,cash,30,Mochaccino
+3/19/2025,3/19/2025 17:44,cash,33,Latte
+3/19/2025,3/19/2025 19:42,cash,25,Double chocolate
+3/20/2025,3/20/2025 8:10,card,25,Irish whiskey
+3/20/2025,3/20/2025 11:54,card,33,Latte
+3/20/2025,3/20/2025 17:22,cash,30,Chocolate with coffee
+3/21/2025,3/21/2025 9:04,card,25,Irish whiskey
+3/21/2025,3/21/2025 19:37,card,27,Chocolate with milk
+3/21/2025,3/21/2025 19:39,card,28,Super chocolate
+3/21/2025,3/21/2025 21:47,card,25,Americano with milk
+3/22/2025,3/22/2025 10:54,card,27,Irish whiskey with milk
+3/22/2025,3/22/2025 10:55,card,27,Irish with chocolate
+3/22/2025,3/22/2025 11:00,card,25,Irish whiskey
+3/22/2025,3/22/2025 16:59,card,15,Tea
+3/22/2025,3/22/2025 17:07,cash,25,Irish whiskey
+3/22/2025,3/22/2025 17:44,card,28,Caramel with Irish whiskey
+3/22/2025,3/22/2025 17:58,cash,22,Caramel
+3/22/2025,3/22/2025 22:19,card,25,Americano with milk
+3/22/2025,3/22/2025 22:21,card,25,Americano with milk
+3/22/2025,3/22/2025 22:23,card,29,Coffee with Irish whiskey
+3/23/2025,3/23/2025 10:16,cash,25,Irish whiskey
+3/23/2025,3/23/2025 10:25,cash,25,Americano with milk
+3/23/2025,3/23/2025 10:25,cash,25,Americano with milk
+3/23/2025,3/23/2025 14:55,cash,30,Cappuccino
+3/23/2025,3/23/2025 15:15,card,25,Irish whiskey
+3/23/2025,3/23/2025 17:59,card,28,Super chocolate
+3/23/2025,3/23/2025 18:01,card,28,Vanilla with Irish whiskey
+3/23/2025,3/23/2025 21:23,card,29,Coffee with Irish whiskey
